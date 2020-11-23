@@ -1,5 +1,5 @@
 import "./App.css";
-import FlipCoin from "./components/FlipCoin";
+import FlipCoin from "react-flipcoin";
 
 //object options example
 const options = [
